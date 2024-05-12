@@ -1,0 +1,27 @@
+# Arquivos gerados pelo compilador Java
+*.class
+
+# Arquivos de build gerados pelo Maven
+target/
+
+# Arquivos de build gerados pelo Gradle
+build/
+
+# Arquivos de configuração de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos de dependências
+/lib/
+/libs/
+
+# Arquivos de configuração específicos de sistema operacional
+.DS_Store
+Thumbs.db
