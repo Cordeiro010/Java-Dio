@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Repositório Java! 🎉
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30"/> Bem-vindo ao Meu Repositório Java! 
 
 Este repositório é um ponto de partida para quem está começando a aprender Java ou para quem quer aprimorar suas habilidades na linguagem. Aqui você encontrará recursos úteis, links para documentação e ferramentas que podem ajudá-lo a dominar Java.
 
