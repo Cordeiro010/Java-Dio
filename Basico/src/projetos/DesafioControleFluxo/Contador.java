@@ -10,6 +10,7 @@ public class Contador {
 
             while (continueLoop) {
                 System.out.print("\033[H\033[2J");
+                System.out.flush();
                 System.out.println("Digite o primeiro número: ");
                 int num1 = terminal.nextInt();
                 System.out.print("\033[H\033[2J");
