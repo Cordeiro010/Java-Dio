@@ -12,10 +12,10 @@ public class VerificacaoChequeEspecial {
         double limiteChequeEspecial = 500; 
         double limiteTotal = limiteChequeEspecial + saldo;
 
-        // TODO: Verifique se o saque não ultrapassa o saldo disponível na conta:
+        // TODA: Verifique se o saque não ultrapassa o saldo disponível na conta:
         if (saque < saldo){
           System.out.print("Transação realizada com sucesso.");
-        // TODO: Verifique se o saque ultrapassa o limite do cheque especial, mas não o saldo total disponível:
+        // TODA: Verifique se o saque ultrapassa o limite do cheque especial, mas não o saldo total disponível:
         } else if (saque > saldo && saque <= limiteTotal) {
            System.out.print("Transação realizada com sucesso utilizando o cheque especial.");
         // Se o saque ultrapassar tanto o saldo disponível quanto o limite do cheque especial

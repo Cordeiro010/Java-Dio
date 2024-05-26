@@ -11,7 +11,7 @@ public class VerificadorElegibilidadeConta {
 
         int idade = scanner.nextInt(); 
 
-// TODO: Verifique se a idade é maior ou igual a 18 e imprima uma mensagem informando que o usuário é elegível para criar uma conta bancária:
+// TODA: Verifique se a idade é maior ou igual a 18 e imprima uma mensagem informando que o usuário é elegível para criar uma conta bancária:
        if (idade >= 18) {
           System.out.print("Voce esta elegivel para criar uma conta bancaria.");
        } else {
